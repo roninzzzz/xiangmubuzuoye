@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]><html class="ie6"><![endif]-->
+
+<!--[if IE 7 ]><html class="ie7"><![endif]-->
+
+<!--[if IE 8 ]><html class="ie8"><![endif]-->
+
+<!--[if IE 9 ]><html class="ie9"><![endif]-->
+
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="w3c">
+<!--<![endif]-->
+<head>
+<meta charset = "gbk">
+<title>360搜索，SO靠谱</title>
+</head>
+<body class = "widescreen">
+	<div id = "skin_bg" style = "background-color:#fff"></div>
+	<div class = "page-wrap skin-page-wrap">
+	<header id = "header">
+	<section id = "bd_tabnav">
+	<nav class = "skin-text skin-text-tab">
+		<a style = "color:#666;font-size:14px;line-height:18px;margin-right:13px" href = "https://weibo.com/cyez?topnav=1&wvr=6&topsug=1">360导航</a>
+		<a style = "color:#666;font-size:14px;line-height:18px;margin-right:13px" href = "https://weibo.com/cqupt1950?topnav=1&wvr=6&topsug=1">资讯</a>
+		<a style = "color:#666;font-size:14px;line-height:18px;margin-right:13px" href = "https://weibo.com/cqupt1950?topnav=1&wvr=6&topsug=1">视频</a>
+		<a style = "color:#666;font-size:14px;line-height:18px;margin-right:13px" href = "https://weibo.com/cqupt1950?topnav=1&wvr=6&topsug=1">图片</a>
+		<a style = "color:#666;font-size:14px;line-height:18px;margin-right:13px" href = "https://weibo.com/cqupt1950?topnav=1&wvr=6&topsug=1">良医</a>
+		<a style = "color:#666;font-size:14px;line-height:18px;margin-right:13px" href = "https://weibo.com/cqupt1950?topnav=1&wvr=6&topsug=1">地图</a>
+		<a style = "color:#666;font-size:14px;line-height:18px;margin-right:13px" href = "https://weibo.com/cqupt1950?topnav=1&wvr=6&topsug=1">百科</a>
+		<a style = "color:#666;font-size:14px;line-height:18px;margin-right:13px" href = "https://weibo.com/cqupt1950?topnav=1&wvr=6&topsug=1">英文</a>
+<head lang="en">
+    <meta charset="gbk">
+    <title></title>
+    <style type="text/css">
+        .dropbtn{
+            background-color: #666;
+            color: #ffffff;
+            padding: 12px;
+            font-size: 12px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .dropdown{
+            position: relative;;display: inline-block;
+        }
+
+        .dropdown-content{
+            display: none;
+            position: absolute;
+            background-color: #fffffe;
+            min-width: 16px;
+            box-shadow:  0px 8px 10px 0px rgba(0,0,0,0.2);
+        }
+        .dropdown-content a{
+            color: #666;
+            padding: 10px 10px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown-content a:hover{background-color: #666}
+        .dropdown:hover .dropdown-content{
+            display: block;
+        }
+        .dropdown:hover .dropbtn{
+            background-color: #666;
+        }
+    </style>
+</head>
+<body>
+<div class="dropdown">
+    <button class="dropbtn">更多</button>
+    <div class="dropdown-content">
+        <a href="#">问答</a>
+        <a href="#">翻译</a>
+        <a href="#">音乐</a>
+        <a href="#">软件</a>
+        <a href="#">趋势</a>
+        <a href="#">学术</a>
+        <a href="#">商机</a>
+        <a href="#">全部</a>
+    </div>
+</div>
+<head>
+    <meta charset="gbk">
+    <title>Document</title>
+    <style>
+        *{
+            margin:auto;
+            padding:0;
+        }
+        .form{
+            width: 454px;
+            height: 42px;
+            background:rgba(0,0,0,.2);
+            padding:15px;
+            border:none;
+            border-radius:5px;          
+        }
+        input{
+            width: 342px;
+            height: 42px;
+            background-color: #fffffb;
+            border:none;
+            border-top-left-radius:5px;
+            border-bottom-left-radius:5px;
+            font: bold 15px 'lucida sans', 'trebuchet MS', 'Tahoma';
+            font-style:italic;
+        }
+        button{
+            /*display:inline-block;*/
+            width:112px;
+            height: 42px;
+            background-color:#45b97c;
+            color:#fffffb;
+            border:none;
+            border-top-right-radius:5px;
+            border-bottom-right-radius:5px;
+            position: relative;
+            font-size:16px;
+            font-weight: bold;
+        }
+        button:before{
+            content:"";
+            border-width:6px;
+            border-style:solid;
+            border-color: transparent #fffffb transparent transparent;
+            position: absolute;
+            right:100%;
+            top:50%;
+        }
+
+    </style>
+</head>
+
+<body>
+    <form action="">
+    <div class="form">     
+            <input type="text" name="uname" placeholder="" href = "http://www.baidu.com" vertical-align = "middle"><button>搜索</button>    
+    </div>
+    </form> 
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
